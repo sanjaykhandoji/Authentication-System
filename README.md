@@ -1,6 +1,6 @@
 # -Authentication Backend
 
-**yt-auth** is a backend authentication system built using Node.js, Express.js, MongoDB, and JWT. It provides a secure and complete authentication workflow with user registration, email verification using OTP, login, access token and refresh token management, and session-based logout.
+**auth-sys** is a backend authentication system built using Node.js, Express.js, MongoDB, and JWT. It provides a secure and complete authentication workflow with user registration, email verification using OTP, login, access token and refresh token management, and session-based logout.
 
 ## 🚀 Features
 
@@ -250,4 +250,4 @@ This project is licensed under the ISC License.
 
 **Sanjay KR**
 
-GitHub: YOUR_GITHUB_PROFILE_URL
+GitHub:https://github.com/sanjaykhandoji
